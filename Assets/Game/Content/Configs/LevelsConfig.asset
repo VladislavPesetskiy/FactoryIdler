@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99822b8df74c4b43a3f78df809bd35bf, type: 3}
+  m_Name: LevelsConfig
+  m_EditorClassIdentifier: 
+  levelsData:
+  - <IsRepeat>k__BackingField: 1
+    <LevelID>k__BackingField: Level_1
+    <UseCustomLevelInfo>k__BackingField: 0
+    <LevelReference>k__BackingField:
+      m_AssetGUID: 761271dfe40244159a293d20220fc198
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    <LevelSettings>k__BackingField:
+      <BuildingParameters>k__BackingField:
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: 9c1693bc216de4fe6b6f67adef13bb89,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 5
+        <SalaryDelay>k__BackingField: 1
+        <BuildingCost>k__BackingField: 0
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: a5400a5dc57464cbb91e3f4e6c9e537c,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 10
+        <SalaryDelay>k__BackingField: 4
+        <BuildingCost>k__BackingField: 1000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: bd4ff61c588124752857af76b50bcf3f,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 15
+        <SalaryDelay>k__BackingField: 3
+        <BuildingCost>k__BackingField: 15000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: c9d5eb5ac3ae14b1f8186566eb44c2cd,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 20
+        <SalaryDelay>k__BackingField: 2
+        <BuildingCost>k__BackingField: 35000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: a0e7490f9123042baaaf26caecf95256,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 25
+        <SalaryDelay>k__BackingField: 2
+        <BuildingCost>k__BackingField: 0
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: afb7eec567ea846c0853028e65f4d792,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 40
+        <SalaryDelay>k__BackingField: 10
+        <BuildingCost>k__BackingField: 50000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: fb9c78511a2024d42809415f8f9d8a57,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 50
+        <SalaryDelay>k__BackingField: 8
+        <BuildingCost>k__BackingField: 125000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: 36a848139578a4824a01e81a88482316,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 75
+        <SalaryDelay>k__BackingField: 6
+        <BuildingCost>k__BackingField: 300000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: cab174c0765af48fba113a8b54e96aa7,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 100
+        <SalaryDelay>k__BackingField: 10
+        <BuildingCost>k__BackingField: 5000000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: cbfe5b3a1be9844e097941f178ed3f39,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 150
+        <SalaryDelay>k__BackingField: 5
+        <BuildingCost>k__BackingField: 1000000
+      - <BuildingView>k__BackingField: {fileID: 7059592643058729416, guid: 909ddd8a879da48e29cce2f909e3cd34,
+          type: 3}
+        <CoinsPerSeconds>k__BackingField: 500
+        <SalaryDelay>k__BackingField: 2
+        <BuildingCost>k__BackingField: 100000000

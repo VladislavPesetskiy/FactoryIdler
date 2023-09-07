@@ -1,0 +1,84 @@
+# =============== #
+# Unity generated #
+# =============== #
+Logs/
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+.idea/
+UserSettings/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.csproj.meta
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.idea/
+*.vscode
+
+Assets/Plugins/Editor/JetBrains/
+
+.WebGL/
+build/
+builds/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.ios
+development.apk
+Assets/StreamingAssets/bundles/
+Assets/StreamingAssets/bundles.meta
+Assets/screenshots/
+AssetBundles/
+dump_analytics/
+Screenshots/
+release.apk
+*.stackdump
+Assets/StreamingAssets/crashlytics-build.properties
+Assets/StreamingAssets/crashlytics-build.properties.meta
+win_dev/
+win_release/
+/runData.json
+Assets/Plugins/Editor/JetBrains
+Assets/Plugins/Editor/JetBrains.meta
+.vs
+/facebookKeys.bat
+
+# =============== #
+# Project ignores #
+# =============== #
+mono_crash.*
+remote_config_data
+Assets/GeneratedLocalRepo*
+Assets/StreamingAssets*
+
+Assets/AddressableAssetsData/Android*
+Assets/AddressableAssetsData/iOS*
+Assets/AddressableAssetsData/OSX*
+*.sln.DotSettings
+*.csproj.DotSettings
+
+.vsconfig
+Assets/Game/Content/Sprites/Mocubs
+Assets/Plugins/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+ProjectSettings/QualitySettings.asset
+Assets/AddressableAssetsData/WebGL/addressables_content_state.bin
